@@ -5,7 +5,7 @@ I'm a web developer. Recently, I have been developing with TypeScript and PHP.
 Especially, I am excel at building a containerization web application that can be easily managed using AWS and GCP.
 
 - [Qiita](https://qiita.com/komtaki)
-- [note](https://note.com/komtaki)
+- [blog](https://www.komtaki.com/)
 
 ## Language and tools
 
